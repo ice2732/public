@@ -1,0 +1,8 @@
+{
+  "editor.formatOnSave": true,
+  "[solidity]": {
+    "editor.defaultFormatter": "JuanBlanco.solidity",
+    "editor.tabSize": 4
+  },
+  "solidity.formatter": "prettier"
+}
